@@ -1,3 +1,0 @@
-telebot
-random
-sqlite3
